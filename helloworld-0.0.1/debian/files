@@ -1,0 +1,3 @@
+helloworld-dbgsym_0.0.1_armhf.deb debug optional automatic=yes
+helloworld_0.0.1_armhf.buildinfo utils -
+helloworld_0.0.1_armhf.deb utils extra

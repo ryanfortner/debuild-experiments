@@ -1,0 +1,10 @@
+Package: helloworld
+Version: 0.0.1
+Architecture: armhf
+Maintainer: Ryan Fortner
+Installed-Size: 15
+Depends: libc6 (>= 2.4)
+Section: utils
+Priority: extra
+Description: a simple helloworld package
+ Prints "Hello, World" and exit.

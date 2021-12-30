@@ -1,0 +1,12 @@
+Source: helloworld
+Maintainer: Ryan Fortner
+Build-Depends: debhelper (>= 10.2.5)
+Standards-Version: 3.9.8
+Section: utils
+
+Package: helloworld
+Priority: extra
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: a simple helloworld package
+ Prints "Hello, World" and exit.

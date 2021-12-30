@@ -1,0 +1,13 @@
+d1572fd1ec56ae850675d03b3e0cf839  ./Makefile.am
+21e1b0560378279a8d4ac557f1497cc4  ./.gitattributes
+834d4e7e0d5c136c694080d848e3579d  ./README.md
+ed5b4b4f12c9b633f765580db4ff32bc  ./config.h.in
+e88e9d7c8dcf85ebb5232842a6cb93f2  ./src/Makefile.am
+965adea5df96285b9e026f69d68756fa  ./src/.deps/main.Po
+25c01eaad42b5aa375a091d6e8b19a8d  ./src/main.c
+0f33fbde57e581539fdd2fc10ae7f626  ./src/Makefile
+66d17db86bcb5aa49207c3f4c9b32c8a  ./configure.ac
+3d1a252da2ae5dd599d6b8618b4e3e2c  ./.gitignore
+f388cad0df1af35e3626518d587c0cb6  ./LICENSE
+6c6e3ffd7137d8519e0d97e29f67f35e  ./Makefile
+7bb1c494d4549559855cf57c69008ed3  ./config.h
